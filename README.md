@@ -56,6 +56,19 @@ This mobile application sends personalized reminders to patients for their follo
 3. **Receive timely notifications** for your healthcare tasks.
 
 ---
+## Screenshots
+# Patient's End
+![WhatsApp Image 2025-03-01 at 21 00 09_1b5fc9ff](https://github.com/user-attachments/assets/ff544032-ba7e-421e-9393-fc97a51be77a)
+![WhatsApp Image 2025-03-01 at 21 00 10_1ae3a14b](https://github.com/user-attachments/assets/84109f9c-b85a-4d32-97b2-348a24ce2f34)
+![WhatsApp Image 2025-03-01 at 21 00 13_cf7b0a90](https://github.com/user-attachments/assets/9c45c39f-06e2-4678-9ff4-0ecde92e81fe)
+![WhatsApp Image 2025-03-01 at 21 10 02_99ab642a](https://github.com/user-attachments/assets/0d7e5ac1-f6ac-4bb6-9f46-95f5411da176)
+# Doctor's End
+![WhatsApp Image 2025-03-01 at 21 00 19_f7d2a503](https://github.com/user-attachments/assets/4082ec5d-3485-4376-bd43-4b094a781e1c)
+![WhatsApp Image 2025-03-01 at 21 00 21_24591a47](https://github.com/user-attachments/assets/0428bb68-9f67-421b-a6b1-e33aa61dde98)
+
+
+
+---
 
 ## 🔧 Troubleshooting
 - **Notifications not working?** Ensure notification permissions are enabled in your device settings.
