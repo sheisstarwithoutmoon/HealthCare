@@ -58,6 +58,7 @@ This mobile application sends personalized reminders to patients for their follo
 ---
 ## Screenshots
 # Patient's End
+<img src="![WhatsApp Image 2025-03-01 at 21 00 09_1b5fc9ff](https://github.com/user-attachments/assets/ff544032-ba7e-421e-9393-fc97a51be77a)" width="300">
 ![WhatsApp Image 2025-03-01 at 21 00 09_1b5fc9ff](https://github.com/user-attachments/assets/ff544032-ba7e-421e-9393-fc97a51be77a)
 ![WhatsApp Image 2025-03-01 at 21 00 10_1ae3a14b](https://github.com/user-attachments/assets/84109f9c-b85a-4d32-97b2-348a24ce2f34)
 ![WhatsApp Image 2025-03-01 at 21 00 13_cf7b0a90](https://github.com/user-attachments/assets/9c45c39f-06e2-4678-9ff4-0ecde92e81fe)
