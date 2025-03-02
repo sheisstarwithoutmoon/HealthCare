@@ -65,8 +65,9 @@ This mobile application sends personalized reminders to patients for their follo
 
 # Doctor's End
 <img src="https://github.com/user-attachments/assets/4082ec5d-3485-4376-bd43-4b094a781e1c" width="300">
-<img src="https://github.com/user-attachments/assets/0428bb68-9f67-421b-a6b1-e33aa61dde98" width="300">
 <img src="https://github.com/user-attachments/assets/44b882e1-e38e-4e94-a692-ed96dc4dd536" width="300">
+<img src="https://github.com/user-attachments/assets/2604a5af-6ae6-4a7c-9a6a-a1cbe864cc54" width="300">
+
 
 ---
 
